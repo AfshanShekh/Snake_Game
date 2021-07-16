@@ -1,1 +1,0 @@
-# codechef_challenge_solution
